@@ -11,9 +11,6 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v3
 
-      - name: Debug Directory
-        run: ls -R
-
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v2
 
@@ -31,11 +28,11 @@ jobs:
         with:
           context: ./backend
           push: true
-          tags: your-dockerhub-username/cdp-backend:latest
+          tags: mrunal13713/cdp-backend:latest
 
       - name: Build and push frontend image
         uses: docker/build-push-action@v3
         with:
           context: ./frontend
           push: true
-          tags: your-dockerhub-username/cdp-frontend:latest
+          tags: mrunal13713/cdp-frontend:latest
