@@ -1,0 +1,208 @@
+[
+  {
+    "platform": "mParticle",
+    "content": "mParticle is a customer data platform (CDP) that simplifies how you collect and connect your user data to hundreds of vendors without needing to manage multiple integrations. We simplify the entire process for you, so you can do more with your data without the hassle of complex integrations.",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "New to mParticle? Explore our UI with our interactive demo.",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Send your first event to mParticle",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Ensure data quality",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Forward data to a downstream services",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Manage user identities with IDSync",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "View and enforce your data quality",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Engage customer cohorts",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Transform data as it enters and leaves mParticle",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Get a complete view of your users",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Ensure compliance with GDPR, CCPA, and your privacy policies",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Send events directly to mParticle",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Real-time API to drive user personalization",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Build your own custom integrations",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Android",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "iOS",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Web",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "HTTP",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Node",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Python",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Ruby",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "JSON Reference",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Branch",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "AppsFlyer",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Braze",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Custom CSV Feed",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Mixpanel",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Amplitude",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Facebook",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Braze",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "AppsFlyer",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Facebook",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Snapchat",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Twitter",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Braze",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "mParticle",
+    "content": "Pinterest",
+    "url": "https://docs.mparticle.com/"
+  },
+  {
+    "platform": "Lytics",
+    "content": "If you have questions about Lytics — whether you're a marketer, an engineer, an analyst, or an intern — we've got you covered.",
+    "url": "https://docs.lytics.com/"
+  },
+  {
+      "platform": "Segment",
+      "content": "How to set up a new source in Segment...",
+      "url": "https://segment.com/docs/setup/"
+    },
+    {
+      "platform": "mParticle",
+      "content": "Configuring conditional forwarding in mParticle: Step 1...",
+      "url": "https://docs.mparticle.com/guides/conditional-forwarding/"
+    },
+    {
+      "platform": "Lytics",
+      "content": "Setting up real-time streaming in Lytics: You can stream real-time events by...",
+      "url": "https://docs.lytics.com/realtime-streaming/"
+    },
+    {
+      "platform": "Zeotap",
+      "content": "How do I configure identity resolution in Zeotap? First, log in to the dashboard...",
+      "url": "https://docs.zeotap.com/home/en-us/identity-resolution"
+    }
+  ]
+  
